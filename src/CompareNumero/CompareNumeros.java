@@ -1,3 +1,5 @@
+package CompareNumero;
+
 public class CompareNumeros {
 
     public static void main(String[] args) {
