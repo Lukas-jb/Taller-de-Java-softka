@@ -10,11 +10,20 @@ public class NumDoWhile {
         int numero = 0;
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 
-
-        System.out.println("ingrese un numero para la validacion");
-        //try {
-        //numero = Integer.parseInt(bf.readLine());
+        do {
 
 
+            System.out.println("\nIngrese un numero mayor o igual a cero (0) para la validacion");
+            try {
+                numero = Integer.parseInt(bf.readLine());
+
+
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+        while (numero<0);
+        System.out.println("Correcto, el numero es mayor que cero(0).");
     }
 }
+
