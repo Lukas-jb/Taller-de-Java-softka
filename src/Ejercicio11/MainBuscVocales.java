@@ -6,7 +6,7 @@ import java.sql.SQLOutput;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Mail {
+public class MainBuscVocales {
 
     public static void main(String[] args) {
 
