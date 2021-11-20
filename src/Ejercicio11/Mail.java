@@ -20,19 +20,11 @@ public class Mail {
 
         try {
 
-            // System.out.println("Ingrese una palabra");
-            //palabra = bf.readLine();
-
-            /*for (int x = 0; x < palabra.length(); x++) {
-                if ((palabra.charAt(x) == 'a') || (palabra.charAt(x) == 'e') || (palabra.charAt(x) == 'i') || (palabra.charAt(x) == 'o') || (palabra.charAt(x) == 'u')) {
-                    contador++;
-                }
-            }*/
         } catch (
                 Exception e) {
             e.printStackTrace();
         }
-        //System.out.println("La palabra " + palabra + "contiene " + contador + " vocales");
+
         contarvocales(vocales, palabra);
     }
 
