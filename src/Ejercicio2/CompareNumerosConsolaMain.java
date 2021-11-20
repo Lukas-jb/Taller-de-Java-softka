@@ -1,11 +1,10 @@
-package CompareNumeroConsola;
+package Ejercicio2;
 
-import javax.sound.midi.Soundbank;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class CompareNumerosConsola {
+public class CompareNumerosConsolaMain {
 
     public static void main(String[] args) {
 

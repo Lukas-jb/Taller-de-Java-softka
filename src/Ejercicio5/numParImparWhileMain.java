@@ -1,6 +1,6 @@
 package Ejercicio5;
 
-public class numParImparWhile {
+public class numParImparWhileMain {
     public static void main(String[] args) {
 
         int contador = 1;

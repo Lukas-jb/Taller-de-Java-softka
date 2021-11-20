@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class NumDoWhile {
+public class NumDoWhileMain {
     public static void main(String[] args) {
 
         int numero = 0;

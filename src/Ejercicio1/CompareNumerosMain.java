@@ -1,6 +1,6 @@
-package CompareNumero;
+package Ejercicio1;
 
-public class CompareNumeros {
+public class CompareNumerosMain {
 
     public static void main(String[] args) {
         int num1 = 3;

@@ -1,4 +1,4 @@
-package AreaCilindro;
+package Ejercicio3;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.text.DecimalFormat;
 import static java.lang.Math.PI;
 import static java.lang.Math.max;
 
-public class AreaCirculo {
+public class AreaCirculoMain {
 
     public static void main(String[] args) {
         double rad = 0;

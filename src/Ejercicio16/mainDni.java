@@ -1,11 +1,6 @@
-package DNI;
+package Ejercicio16;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.sql.SQLOutput;
-
-public class main {
+public class mainDni {
     /*public static void main(String[] args) {
 
         String nombre;

@@ -1,6 +1,6 @@
 package Ejercicio6;
 
-public class numParImparFor {
+public class numParImparForMain {
     public static void main(String[] args) {
 
 
